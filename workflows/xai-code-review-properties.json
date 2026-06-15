@@ -1,0 +1,6 @@
+{
+  "name": "xAI Grok Code Review",
+  "description": "Automatically runs Grok (xAI) code review on new PRs with focus on Odoo/Python best practices.",
+  "iconName": "robot",
+  "categories": ["Python", "Odoo"]
+}
